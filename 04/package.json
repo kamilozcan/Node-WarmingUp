@@ -1,0 +1,19 @@
+{
+  "name": "04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logEvents.js",
+  "scripts": {
+    "start": "nodemon logEvents",
+    "dev": "nodemon logEvents"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
