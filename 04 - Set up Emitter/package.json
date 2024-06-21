@@ -4,8 +4,8 @@
   "description": "",
   "main": "logEvents.js",
   "scripts": {
-    "start": "nodemon logEvents",
-    "dev": "nodemon logEvents"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "author": "",
   "license": "ISC",
